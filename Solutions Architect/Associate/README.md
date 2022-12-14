@@ -1,5 +1,11 @@
 ## **Solutions Architect Associate**.
 
+I have now passed the SAA-C03 exam as of December 2022.
+
+<img src="./images/aws_badge.png">
+
+## **Legacy**
+
 My first aim will be to become AWS certified as a solutions architect associate. I will be using the following resources:
 
 * **Udemy Courses**  
